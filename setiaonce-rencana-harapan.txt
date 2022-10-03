@@ -1,4 +1,6 @@
 RENCANA HARAPAN SETIAONCE
 - menjadi orang berguna untuk orang lain
 - bisa framework laravel
+  * 8
+  * 9
 - bisa editing menggunakan premiere pro
