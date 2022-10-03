@@ -2,5 +2,5 @@ RENCANA HARAPAN SETIAONCE
 - menjadi orang berguna untuk orang lain
 - bisa editing menggunakan premiere pro
 - fundamental structur dasar
-- framework ruby
-- memahami pyton
+- framework codeignetor
+- memahami javascript
