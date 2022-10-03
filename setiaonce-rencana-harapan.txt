@@ -6,3 +6,4 @@ RENCANA HARAPAN SETIAONCE
 - bisa editing menggunakan premiere pro
 - fundamental structur dasar
 - framework codeignetor
+- memahami javascript
